@@ -1,20 +1,20 @@
 [
   {
     "id": 1,
-    "name": "book",
+    "name": "a",
     "price": 10,
     "imgurl": "sjfl"
   },
   {
     "id": 2,
-    "name": "book",
-    "price": 10,
+    "name": "b",
+    "price": 20,
     "imgurl": "sjfl"
   },
   {
     "id": 3,
-    "name": "book",
-    "price": 10,
+    "name": "c",
+    "price": 30,
     "imgurl": "sjfl"
   }
 ]
