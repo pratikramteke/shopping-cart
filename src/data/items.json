@@ -1,20 +1,26 @@
 [
   {
     "id": 1,
-    "name": "a",
-    "price": 10,
-    "imgurl": "sjfl"
+    "name": "Camera",
+    "price": 100000,
+    "imgurl": "/imgs/camera.jpg"
   },
   {
     "id": 2,
-    "name": "b",
-    "price": 20,
-    "imgurl": "sjfl"
+    "name": "Laptop",
+    "price": 85000,
+    "imgurl": "/imgs/laptop.jpg"
   },
   {
     "id": 3,
-    "name": "c",
-    "price": 30,
-    "imgurl": "sjfl"
+    "name": "Sneaker",
+    "price": 150000,
+    "imgurl": "/imgs/sneaker.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Watch",
+    "price": 30000,
+    "imgurl": "/imgs/watch.jpg"
   }
 ]
