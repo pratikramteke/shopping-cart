@@ -48,6 +48,10 @@ export default function ShoppingCartProvider({ children }) {
     })
   }
 
+  function getCount() {
+    return cartItems.length
+  }
+
   return (
     <ShoppingCartContext.Provider
       value={{
@@ -55,7 +59,8 @@ export default function ShoppingCartProvider({ children }) {
         increaseCartQuantity,
         decreaseCartQuantity,
         removeFromCart,
-        cartItems
+        cartItems,
+        getCount
       }}
     >
       {children}

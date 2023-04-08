@@ -23,7 +23,7 @@ export default function StoreItems({ id, name, price, imgurl }) {
             className="bg-blue-600 w-full h-12 rounded-lg text-white"
             onClick={() => increaseCartQuantity(id)}
           >
-            Add to Cart
+            Add to Cart{}
           </button>
         ) : (
           <div className="text-center">
